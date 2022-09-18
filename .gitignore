@@ -1,0 +1,9 @@
+# Folders
+bin/
+tmp/
+logs/
+
+# Files
+.env
+.env.prod
+*.db
